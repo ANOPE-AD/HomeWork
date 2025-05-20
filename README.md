@@ -31,7 +31,7 @@
 [用户基类功能描述]
 
 #### Item/member/ 成员类
-- `ClassRoom.java` - [班级实体功能描述]
+- ~~`ClassRoom.java` - [班级实体功能描述]~~
 - `Course.java` - [仅仅封装Cenum枚举类，相同的Course对象引用同一个枚举对象]
 - `Profile.java` - [作为Student和Teacher的基类，包含展示课表，编辑课表。之后创建学生与老师档案统一声明为Profile]
 - `Schedule.java` - [课程表类返回一个Profile类对象的课程表]
@@ -50,8 +50,8 @@
 #### util/Manager/ 管理器
 - `Editor.java` - [编辑器基类功能]
 - `Reader.java` - [读取器基类功能]
-- `ClassRoomEditor.java` - [班级编辑器功能]
-- `ClassRoomReader.java` - [班级读取器功能]
+- ~~`ClassRoomEditor.java` - [班级编辑器功能]~~
+- ~~`ClassRoomReader.java` - [班级读取器功能]~~
 - `CourseEditor.java` - [课程编辑器功能]
 - `ProfileEditor.java` - [资料编辑器功能]
 - `ProfileReader.java` - [资料读取器功能]
